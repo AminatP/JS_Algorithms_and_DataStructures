@@ -18,7 +18,7 @@ Time Complexity: O(n^2) || Space Complexity: O(1)
 ## _Selection Sort_
 
 Similar to bubble sort, but instead of first placing large values into sorted position, it places small values into sorted position
-The selection sort algorithm sorts an array by repeatedly "_selecting_" the smallest element from unsorted part and putting it at the beginning. 
+The selection sort algorithm sorts an array by repeatedly "*selecting*" the smallest element from unsorted part and putting it at the beginning. 
 
 
 Time Complexity: O(n^2) || Space Complexity: O(1)
