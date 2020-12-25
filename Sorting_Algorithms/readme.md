@@ -13,3 +13,12 @@ Best to use when you know your data is mostly sorted already.
 Time Complexity: O(n^2) || Space Complexity: O(1)
 
 <img src="../images/bubble.png" width="450" height="300">
+
+
+## _Selection Sort_
+
+Similar to bubble sort, but instead of first placing large values into sorted position, it places small values into sorted position
+The selection sort algorithm sorts an array by repeatedly "_selecting_" the smallest element from unsorted part and putting it at the beginning. 
+
+
+Time Complexity: O(n^2) || Space Complexity: O(1)
