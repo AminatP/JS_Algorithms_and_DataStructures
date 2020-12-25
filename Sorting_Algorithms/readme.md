@@ -25,3 +25,12 @@ Time Complexity: O(n^2) || Space Complexity: O(1)
 
 <img src="../images/selection.png" width="400" height="550">
 
+
+
+
+
+
+
+
+
+* images taken from [W3Schools](https://www.w3schools.com/)
