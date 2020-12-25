@@ -34,6 +34,9 @@ Builds up the sort by gradually creating a larger left half which is always sort
 
 Time Complexity: O(n^2) || Space Complexity: O(1)
 
+<img src="../images/insertion.png" width="400" height="550">
+
+
 
 
 
