@@ -28,7 +28,7 @@ Time Complexity: O(n^2) || Space Complexity: O(1)
 
 ## _Insertion Sort_
 
-In insertion sort while you iterate through an input you look at each element and insert in to the right spot at the left(sorted) half of the array.
+In insertion sort while iterating through an input each element is beibg compared and **inserted** in to the right spot at the left(sorted) half of the array.
 Builds up the sort by gradually creating a larger left half which is always sorted.
 
 
