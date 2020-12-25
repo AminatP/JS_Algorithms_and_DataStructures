@@ -23,5 +23,5 @@ The selection sort algorithm sorts an array by repeatedly **"selecting"** the sm
 
 Time Complexity: O(n^2) || Space Complexity: O(1)
 
-<img src="../images/selection.png" width="450" height="300">
+<img src="../images/selection.png" width="300" height="450">
 
